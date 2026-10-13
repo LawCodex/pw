@@ -24,7 +24,7 @@ Retrieved: **2026-10-13**. Status: **minimal / partial**.
   decisions/reports; `palaugov.pw` only summarises the Constitution; the OEK (`palauoek.org`) only
   tracks bills. PacLII (`paclii.org`, `pacliirms.paclii.org`), which hosts the Constitution and
   PNC, is behind a bot challenge (HTTP 403) and was not used.
-- **~45 RPPL public laws** (Congresses 9–11) and some regulations posted on palaugov.pw are image-only
+- **Most RPPL public laws** (Congresses 9–11) and some regulations posted on palaugov.pw (70 PDFs in total) are image-only
   scans (no OCR performed): listed by `scripts/pw_fetch_convert.py`.
 - Draft/proposed regulations, guidance manuals, budget pay scales and transmittal letters were
   excluded on purpose.
