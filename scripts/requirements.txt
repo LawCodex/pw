@@ -1,0 +1,2 @@
+requests
+# plus poppler-utils (pdftotext) on PATH
